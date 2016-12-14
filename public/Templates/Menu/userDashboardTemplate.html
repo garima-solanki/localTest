@@ -1,0 +1,15 @@
+﻿<div class="panel panel-default">
+    <div class="panel-heading">
+        <a href="/addcontact" class="btn btn-xs btn-primary pull-right">Add contact</a>
+        <h3 class="panel-title">Dashboard</h3>
+    </div>
+    <div class="panel-body">
+        <div class="alert alert-info" role="alert" ng-show="count==0">
+            {{nodata}}
+        </div>
+        <div class="alert alert-danger" role="alert" ng-show="error">
+            {{error}}
+        </div>
+        <user-contacts records="contacts" ng-show="contacts" />
+    </div>
+</div>

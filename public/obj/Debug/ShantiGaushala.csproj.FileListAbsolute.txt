@@ -1,0 +1,2 @@
+C:\Users\garima.solanki\Source\Workspaces\Workspace\ShantiGaushala\ShantiGaushala\ShantiGaushala\obj\Debug\ShantiGaushala.csprojResolveAssemblyReference.cache
+C:\Users\garima.solanki\Source\Workspaces\Workspace\ShantiGaushala\omshantigaushala\ShantiGaushala\ShantiGaushala\obj\Debug\ShantiGaushala.csprojResolveAssemblyReference.cache

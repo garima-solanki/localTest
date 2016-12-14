@@ -1,0 +1,39 @@
+﻿<script type="text/ng-template" id="myModalContent.html">
+    <div class="modal-header">
+        <h3 class="modal-title">Photos</h3>
+    </div>
+    <div class="modal-body">
+        <br />
+        <form ng-submit="ok()">
+            <div class="input-group animated fadeIn">
+                <div id="slides_control" class="caroClass">
+                    <div>
+                        <div uib-carousel no-wrap="noWrapSlides" active="active">
+                            <div uib-slide ng-repeat="sld in slides track by sld.id" index="sld.id">
+                                <img ng-src="Images/{{sld.image}}" style="margin:auto; height:450px; width:inherit;">
+                                <div class="carousel-caption">
+                                    <h4>Slide</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-warning" type="button" ng-click="close()">Close</button>
+    </div>
+</script>
+
+<div class="row photoCls">
+
+    <a href="#/gallery" class="backBtnCls"><span>Go back to Gallery</span></a><br />
+    <div ng-repeat="display in displayedImages" class="col-lg-3 padCls">
+        <a href="" ng-click="open('lg','',displayedImages)" data-target="#myModal" data-toggle="modal" class="galleryClass">
+            <span>
+                <img src="Images/{{display}}"style="margin:auto; height:155px; width:210px;" />
+            </span>
+        </a>
+    </div>
+</div>
