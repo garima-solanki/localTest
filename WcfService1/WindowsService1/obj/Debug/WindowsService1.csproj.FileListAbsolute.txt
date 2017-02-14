@@ -1,0 +1,10 @@
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\obj\Debug\WindowsService1.pdb

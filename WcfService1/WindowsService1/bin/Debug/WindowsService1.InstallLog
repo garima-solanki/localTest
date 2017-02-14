@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service1.
