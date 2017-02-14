@@ -3,3 +3,4 @@ C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WcfServiceLibrary
 C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
 C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
 C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache

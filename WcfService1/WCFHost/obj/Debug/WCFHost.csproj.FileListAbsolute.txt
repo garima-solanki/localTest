@@ -1,0 +1,8 @@
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\bin\Debug\WCFHost.exe.config
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\bin\Debug\WCFHost.exe
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\obj\Debug\WCFHost.csprojResolveAssemblyReference.cache
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\obj\Debug\WCFHost.exe
+C:\Users\garima.solanki\Source\localTest\localTest\WcfService1\WCFHost\obj\Debug\WCFHost.pdb
