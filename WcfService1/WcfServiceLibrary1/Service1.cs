@@ -8,7 +8,7 @@ using System.Text;
 namespace WcfServiceLibrary1
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in both code and config file together.
-    public class Service1 : IService1
+    public class Service1 : IService1 , IService2
     {
         public string GetData(string value)
         {
@@ -26,6 +26,11 @@ namespace WcfServiceLibrary1
                 composite.StringValue += "Suffix";
             }
             return composite;
+        }
+
+        public string GetMessage(string value)
+        {
+            return "This is Message return from WCF Service";
         }
     }
 }
